@@ -1,5 +1,4 @@
-This repo contains the ROM Manager manifest and current packages for
-the Google Applications to be used with AOSP ROMs such as CyanogenMod.
-
-Old versions of the packages can be found at goo.im/gapps as well as
-all current versions.
+This repo contains the Google Applications packages that are to be used 
+with AOSP-built Android ROMs, such as CyanogenMod or AOKP. The packages 
+are also available for download at http://goo.im/gapps and via the 
+GooManager application in the Google Play Store.
